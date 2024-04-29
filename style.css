@@ -26,3 +26,20 @@ font-weight: bolder;
 background-image: linear-gradient( #f99600, #fba200, #fdae00, #febb00, #ffc700); ;
 border: ;
 }
+
+@media screen and (max-width: 768px) {
+    i {
+      display: flex;
+      flex-direction: row;
+    }
+  }
+ 
+  @media screen and (max-width: 768px) {
+    bttn {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+  }
+ 
+
