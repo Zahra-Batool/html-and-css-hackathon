@@ -1,0 +1,28 @@
+
+
+body{
+background-repeat: no-repeat;
+   
+    background-image: linear-gradient(to right, #f6d870, #fadd8f, #fce3ac, #fbe9ca, #f6f0e7); !important;
+}
+
+.button-gredien{
+    background-color : linear-gradient(to right top, #f6ce90, #f4c174, #f1b358, #eea53a, #eb9612) !important;
+
+}
+
+.font i{
+font-size: larger ;
+padding: 10px;
+}
+
+h1{
+font-size: 3rem;
+font-weight: bolder;
+
+}
+
+.bbt{
+background-image: linear-gradient( #f99600, #fba200, #fdae00, #febb00, #ffc700); ;
+border: ;
+}
